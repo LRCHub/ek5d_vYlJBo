@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "キミの隣が自分じゃないくらいなら",
+  "base_artist": "NEWPOEM",
+  "createdAt": "2026-02-23T07:42:23.341963Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キミの隣が自分じゃないくらいなら",
+      "artist": "NEWPOEM",
+      "has_synced": false,
+      "path": "select/pl_01_キミの隣が自分じゃないくらいなら_NEWPOEM.txt"
+    }
+  ]
+}
